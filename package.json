@@ -1,0 +1,18 @@
+{
+  "name": "exercicios-modulos-testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "juros.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.7.1"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}
