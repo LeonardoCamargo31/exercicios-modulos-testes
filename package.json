@@ -4,6 +4,7 @@
   "description": "",
   "main": "juros.js",
   "scripts": {
+    "start":"node",
     "test": "jest"
   },
   "keywords": [],
